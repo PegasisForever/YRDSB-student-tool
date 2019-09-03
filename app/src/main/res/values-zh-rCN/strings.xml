@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~  Copyright Pegasis 2018
+  ~
+  ~     Licensed under the Apache License, Version 2.0 (the "License");
+  ~     you may not use this file except in compliance with the License.
+  ~     You may obtain a copy of the License at
+  ~
+  ~       http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~     Unless required by applicable law or agreed to in writing, software
+  ~     distributed under the License is distributed on an "AS IS" BASIS,
+  ~     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~     See the License for the specific language governing permissions and
+  ~     limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">YRDSB Student Tool</string>
+    <string name="ok">OK</string>
+    <string name="student_number">学号</string>
+    <string name="password">密码</string>
+    <string name="log_in">登录</string>
+    <string name="student_number_is_empty">学号为空</string>
+    <string name="password_is_empty">密码为空</string>
+    <string name="student_number_or_password_incorrect">学号或密码不正确</string>
+    <string name="no_network">无网络连接</string>
+    <string name="marks">分数</string>
+    <string name="trends">趋势</string>
+    <string name="about">关于</string>
+    <string name="ku">知识</string>
+    <string name="t">思考</string>
+    <string name="c">交流</string>
+    <string name="a">应用</string>
+    <string name="knowledge_understanding">知识</string>
+    <string name="thinking">思考</string>
+    <string name="communication">交流</string>
+    <string name="application">应用</string>
+    <string name="class_code">课程代码：</string>
+    <string name="room">教室：</string>
+    <string name="duration">时间：</string>
+    <string name="unknown_class_name">未知课程名称</string>
+    <string name="no_data_available">无可用数据</string>
+    <string name="unknown">未知</string>
+    <string name="period">时间块：</string>
+    <string name="copy">复制</string>
+    <string name="current_mark">当前分数：</string>
+    <string name="copied">已复制</string>
+</resources>

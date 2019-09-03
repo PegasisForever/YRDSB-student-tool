@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~  Copyright Pegasis 2018
+  ~
+  ~     Licensed under the Apache License, Version 2.0 (the "License");
+  ~     you may not use this file except in compliance with the License.
+  ~     You may obtain a copy of the License at
+  ~
+  ~       http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~     Unless required by applicable law or agreed to in writing, software
+  ~     distributed under the License is distributed on an "AS IS" BASIS,
+  ~     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~     See the License for the specific language governing permissions and
+  ~     limitations under the License.
+  -->
+
+<resources>
+    <color name="colorPrimary">#fd9240</color>
+    <color name="colorPrimaryDark">#DA7F39</color>
+    <color name="colorAccent">#fd9240</color>
+
+    <color name="tealPrimary">#fd9240</color>
+    <color name="tealDark">#DA7F39</color>
+    <color name="tealAccent">#fd9240</color>
+
+    <color name="purplePrimary">#9c27b0</color>
+    <color name="purpleDark">#7b1fa2</color>
+    <color name="purpleAccent">#9c27b0</color>
+
+    <color name="orangePrimary">#ff5722</color>
+    <color name="orangeDark">#e64a19</color>
+    <color name="orangeAccent">#ff5722</color>
+
+    <color name="miracleOrangePrimary">#ff763c</color>
+    <color name="miracleOrangeDark">#ec6930</color>
+    <color name="miracleOrangeAccent">#ff763c</color>
+
+    <color name="gritUIOrangePrimary">#ff8600</color>
+    <color name="gritUIOrangeDark">#cc6b00</color>
+    <color name="gritUIOrangeAccent">#ff8600</color>
+
+    <color name="blueGreyPrimary">#607d8b</color>
+    <color name="blueGreyDark">#455a64</color>
+    <color name="blueGreyAccent">#607d8b</color>
+
+    <color name="greenPrimary">#4caf50</color>
+    <color name="greenDark">#388e3c</color>
+    <color name="greenAccent">#4caf50</color>
+
+    <color name="taidisPrimary">#003865</color>
+    <color name="taidisDark">#002a4b</color>
+    <color name="taidisAccent">#003865</color>
+
+    <color name="white">#ffffff</color>
+    <color name="grey">#b3b3b3</color>
+    <color name="black">#000000</color>
+
+</resources>
